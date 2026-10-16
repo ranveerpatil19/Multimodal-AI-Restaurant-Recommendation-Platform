@@ -6,7 +6,7 @@
 
 ## Project Overview
 
-Labs from **IBM AI0351EN** — a 3-module course building a complete 
+a 3-module course building a complete 
 **Connoisseur Companion** restaurant recommendation system from scratch:
 
 - **Module 1** — LLM-powered structured data extraction + multimodal processing
