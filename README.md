@@ -1,16 +1,10 @@
-# 🤖 IBM AI0351EN — Multimodal RAG & Multi-Agent Recommendation System
+# Multimodal RAG & Multi-Agent Recommendation System
 
-![Language](https://img.shields.io/badge/Language-Python%203.11-3776AB?style=flat-square&logo=python&logoColor=white)
-![Platform](https://img.shields.io/badge/Platform-IBM%20Skills%20Network-052FAD?style=flat-square&logo=ibm&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM-GPT--5%20%7C%20IBM%20Granite-412991?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-Multimodal%20ChromaDB-FF6B35?style=flat-square)
-![Agents](https://img.shields.io/badge/Agents-6%20Specialized%20Agents-2E7D32?style=flat-square)
-![UI](https://img.shields.io/badge/UI-Gradio%20Chatbot-FF7C00?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)
+
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 Labs from **IBM AI0351EN** — a 3-module course building a complete 
 **Connoisseur Companion** restaurant recommendation system from scratch:
@@ -53,7 +47,7 @@ AI0351EN/
 
 ---
 
-## 🧩 Module 1 — LLM Data Engineering
+##  Module 1 — LLM Data Engineering
 
 ### Lab 1 — Structure Unstructured Restaurant Data
 ```python
@@ -179,18 +173,3 @@ graph.add_edge("review_analyzer", "synthesizer")
 
 ---
 
-## 📜 Certifications
-
-| Certification | Issuer | Platform |
-|---|---|---|
-| IBM Data Science Professional Certificate | IBM | Coursera |
-| IBM Generative AI Professional Certificate | IBM | Coursera |
-| IBM RAG and Agentic AI Professional Certificate | IBM | Coursera |
-
----
-
-## 🤝 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Leela%20A-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leela-a)
-[![Gmail](https://img.shields.io/badge/Gmail-attotaleelaissak@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:attotaleelaissak@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Leelaissakattaota-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Leelaissakattaota)
